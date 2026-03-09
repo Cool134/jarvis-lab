@@ -1,0 +1,13 @@
+[2026-03-09 17:38:20] Starting Web Search scan...
+/home/agarwalpranav921/.openclaw/workspace/jarvis-lab/opportunity-radar/google_scraper.py:23: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+Searching for: site:reddit.com "my biggest complaint is"
+Searching for: site:ycombinator.com "why is it so hard to"
+Searching for: "the problem with" "is that" app feature request
+Searching for: site:producthunt.com/discussions "biggest problem"
+Searching for: "why don't they make" startup idea complaint
+[2026-03-09 17:38:34] Scraped 0 raw pages via Web Search.
+[2026-03-09 17:38:34] Running detection & clustering pipeline...
+Running detector...
+Running clustering heuristic...
+Pipeline finished.
