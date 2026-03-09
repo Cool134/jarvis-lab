@@ -1,0 +1,1 @@
+fastapi\nuvicorn\nrequests\nbeautifulsoup4\nscikit-learn\nsqlite3\npydantic\njinja2\n
